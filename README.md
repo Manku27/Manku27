@@ -9,7 +9,7 @@ Some of my major publications :\
 [Sync shopping carts across devices and platforms ?](https://medium.com/@jjmayank98/sync-shopping-carts-across-devices-and-platforms-53c62e4a9344)
 
 I have also started a [YouTube](https://www.youtube.com/@mankuDevJS)  channel to learn about web development starting from the very basics of JavaScript.
-I do it in my local language Hindi.
+I do it in Hindi.
 
 ## TECHNICAL SKILLS:
 
